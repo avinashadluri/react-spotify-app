@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="sc-AxjAm bYVeA-d"
+>
+  <div
+    className="sc-AxiKw jMLskP"
+  >
+    <div
+      className="sc-AxhCb bkfFSy"
+    >
+      Spotify App
+    </div>
+  </div>
+  <div
+    className="sc-AxirZ caKzPW"
+  >
+    <div
+      className="sc-AxgMl cKRtnr"
+    >
+      <h2
+        className="sc-AxheI cQTasc"
+      >
+        Looking for music?
+      </h2>
+      <a
+        className="sc-fzozJi hEvmya"
+        href="https://accounts.spotify.com/authorize?client_id=627154bb838d4c48ae225d7430fcaa7a&redirect_uri=http://localhost:3000/&scope=playlist-modify-public%20playlist-modify-private%20playlist-read-private%20playlist-read-collaborative&response_type=token&show_dialog=true"
+      >
+        Login to Spotify
+      </a>
+    </div>
+  </div>
+</div>
+`;

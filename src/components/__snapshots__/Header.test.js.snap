@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="sc-AxiKw jMLskP"
+>
+  <div
+    className="sc-AxhCb bkfFSy"
+  >
+    Spotify App
+  </div>
+</div>
+`;
