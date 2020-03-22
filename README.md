@@ -6,8 +6,6 @@ This app provides spotify authentication, search box to search songs, show playl
 - Authenticate a user and get authorization to access user data
 - Retrieve the data from a Web API endpoint
 
-![Spotify player](https://user-images.githubusercontent.com/4650739/54856251-8aa85000-4cc7-11e9-9bb1-e27812ac2e00.gif)
-
 ## Quickstart
 
 ### Clone this repository
@@ -17,7 +15,7 @@ git clone
 cd react-spotify-app
 ```
 
-### 4. Install dependencies & run locally
+### Install dependencies & run locally
 
 ```sh
 npm install
